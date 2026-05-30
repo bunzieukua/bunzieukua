@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center"> 
 
-<!--
-**bunzieukua/bunzieukua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Le Pham
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- **PhD student** at [School of Molecular Sciences, Arizona State University](https://sms.asu.edu/)
+- Studying **marine microbial ecology** at [Microbial Ecosystem Lab](https://www.microbialeco.systems/) with Dr. Glen D'Souza
+- Graduated with Honors from [Fulbright University Vietnam](https://fulbright.edu.vn/)
+- Current hyperfixation: ILLIT's [paw, paw!](https://www.youtube.com/watch?v=b8xFEnrDuIU)
+
+
