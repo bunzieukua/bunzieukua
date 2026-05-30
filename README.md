@@ -9,7 +9,7 @@
 - Graduated with Honors from [Fulbright University Vietnam](https://fulbright.edu.vn/)
 - Current hyperfixation: ILLIT's [paw, paw!](https://www.youtube.com/watch?v=b8xFEnrDuIU)
 
-💁🏻‍♀️ Before you leave, check out my favorite projects:
+🍐 Before you leave, check out my favorite projects:
 - [enso-asia](https://github.com/bunzieukua/ENSO): Monitoring sea surface temperature, Oceanic Niño Index, and precipitation with public data sourced from NOAA Physical Sciences Laboratory and Coupled Model Intercomparison Project.
 - [can-gio-microbiome](https://github.com/bunzieukua/can-gio-microbiome): The dry lab portion of my undergraduate thesis focusing on the metagenomics of halotolerant microbiome in Cần Giờ Mangrove.
 
